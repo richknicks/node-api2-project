@@ -1,6 +1,6 @@
 # Building RESTful APIs with Express
 
-## Topics.
+## Topics..
 
 - Express Routing
 - Reading Request data from body and URL parameters
